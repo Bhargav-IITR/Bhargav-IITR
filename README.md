@@ -13,7 +13,7 @@ Backend engineer with hands-on experience in fintech infrastructure, real-time c
 - **Distributed backend systems** — horizontally scalable services, WebSocket messaging, Redis Pub/Sub, microservices on GCP
 - **Fintech infrastructure** — data lifecycle automation, AES-256 encrypted file pipelines, RBAC-controlled workflows at BNY
 - **Multi-agent LLM pipelines** — orchestration of modular function units (state machines, nuggets) for automated data reconciliation across MS Teams, Email, Confluence, and cloud storage
-- **Clean, maintainable code** — SOLID principles, dependency injection, interface-segregated contracts; reduced cyclomatic complexity ~40% on a legacy surveillance codebase
+- **Clean, maintainable code** — SOLID principles, dependency injection, interface-segregated contracts; 
 
 ---
 
